@@ -1,4 +1,4 @@
-package Java_concepts;
+package OOP_concepts;
 public class Monstro extends Personagem{
     private String tipo;
     private int poderAtaque;

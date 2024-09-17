@@ -1,4 +1,4 @@
-package Java_concepts;
+package OOP_concepts;
 public class Jogador extends Personagem{
     public enum Arma { PISTOLA, CACADEIRA, METRALHADORA; }
     
