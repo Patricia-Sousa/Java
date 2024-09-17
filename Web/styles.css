@@ -1,0 +1,40 @@
+body {
+  background-color: #114;
+}
+
+.coluna-vertical {
+  float: left;
+  width: 20%;
+  height: 500px;
+  background: #2d5386;
+  padding: 20px;
+}
+
+.coluna-vertical ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.coluna-horizontal {
+  float: left;
+  padding: 20px;
+  width: 80%;
+  background-color: #8c9ad9;
+  height: 500px;
+}
+
+#descricao-css {
+  margin: 10px 400px 10px 20px;
+}
+
+#categoria-css {
+  margin: 10px 650px 10px 20px;
+}
+
+#prioridade-css {
+  margin: 10px 650px 10px 20px;
+}
+
+#botao-guardar {
+  margin: 20px;
+}
